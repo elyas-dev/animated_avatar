@@ -1,6 +1,6 @@
 # animated_avatar
 
-A new Flutter project.
+[Preview](https://www.instagram.com/tv/CVoD2S6Fjhp/)
 
 ## Getting Started
 
